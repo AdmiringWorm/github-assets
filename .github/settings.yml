@@ -79,7 +79,7 @@ labels:
     color: d1260f
     description: For security related issues
   - name: submodules
-    color: 000000
+    color: 00000e
     description: Automatic pull requests that update submodule dependencies
   - name: todo :spiral_notepad:
     color: 00B0D8
