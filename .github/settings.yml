@@ -61,3 +61,6 @@ labels:
   - name: Epic
     color: 3E4B9E
     description: Tracking issue for major changes
+  - name: feature
+    color: 336699
+    description: A new non-breaking change that adds functionality to a package
