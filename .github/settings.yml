@@ -52,3 +52,5 @@ labels:
   - name: dependencies
     color: 0052cc
     description: Only used for automatic dependencies PR by dependabot
+  - name: documentation
+    color: 1d76db
