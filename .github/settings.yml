@@ -41,7 +41,7 @@ repository:
 # Labels: define labels for Issues and Pull Requests
 labels:
   - name: build
-    color: 5319e7
+    color: a9f9dc
     description: For internal changes
   - name: breaking change
     color: b60205
