@@ -54,3 +54,7 @@ labels:
     description: Only used for automatic dependencies PR by dependabot
   - name: documentation
     color: 1d76db
+    description: For updating any documentation in the repository
+  - name: enhancement
+    color: 84b6eb
+    description: Changes for existing code to improve functionality
