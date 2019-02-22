@@ -46,3 +46,6 @@ labels:
   - name: breaking change
     color: b60205
     description: Changes to existing code that results in a backwards incompatible change
+  - name: bug
+    color: cc0000
+    description: Something isn't working
