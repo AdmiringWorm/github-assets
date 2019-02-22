@@ -12,7 +12,7 @@ repository:
 
   # Either `true` to enable issues for this repository, `false` to disable them.
   has_issues: true
-  
+
   # Either `true` to enable projects for this repository, or `false` to disable them.
   # If projects are disabled for the organization, passing `true` will cause an API error.
   has_projects: false
@@ -40,6 +40,9 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
+  - name: .NET
+    color: 7121c6
+    description: Automatic pull requests that update .net dependencies
   - name: breaking change
     color: b60205
     description: Changes to existing code that results in a backwards incompatible change
@@ -66,12 +69,18 @@ labels:
   - name: feature
     color: 336699
     description: A new non-breaking change that adds functionality to a package
+  - name: javascript
+    color: 168700
+    description: Automatic pull requests that update javascript dependencies
   - name: question
     color: cc317c
     description: For questions asked in the repository
   - name: security vulnerability
     color: d1260f
     description: For security related issues
+  - name: submodules
+    color: 000000
+    description: Automatic pull requests that update submodule dependencies
   - name: todo :spiral_notepad:
     color: 00B0D8
     description: Todo items listed in code
