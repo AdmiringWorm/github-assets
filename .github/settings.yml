@@ -42,11 +42,22 @@ repository:
 labels:
   - name: bug
     color: CC0000
+    description: Something isn't working
   - name: feature
     color: 336699
-  - name: first-timers-only
-    # include the old name to rename and existing label
-    oldname: Help Wanted
+    description: A new non-breaking change that adds functionality to a package
+  - name: enhancement
+    color: 84b6eb
+    description: Changes for existing code to improve functionality
+  - name: triage
+    color: cccccc
+    description: Cause is not known yet/Decision to implement have not been decided
+  - name: wontfix
+    color: ffffff
+    description: Code is working as expected
+  - name: up for grabs
+    color: 128A0C
+    description: Issue open for the community to implement
 
 branches:
   - name: master
