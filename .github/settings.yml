@@ -64,3 +64,18 @@ labels:
   - name: feature
     color: 336699
     description: A new non-breaking change that adds functionality to a package
+  - name: question
+    color: cc317c
+    description: For questions asked in the repository
+  - name: security vulnerability
+    color: d1260f
+    description: For security related issues
+  - name: triage
+    color: cccccc
+    description: Cause is not known yet/Decision to implement have not been decided
+  - name: up for grabs
+    color: 006b75
+    description: Issue open for the community to implement
+  - name: wontfix
+    color: ffffff
+    description: Code is working as expected
