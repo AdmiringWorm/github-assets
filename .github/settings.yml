@@ -48,12 +48,6 @@ labels:
     # include the old name to rename and existing label
     oldname: Help Wanted
 
-# Collaborators: give specific users access to this repository.
-collaborators:
-
-  - username: AdmiringWorm
-    permission: admin
-
 branches:
   - name: master
     protection:
