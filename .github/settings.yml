@@ -40,7 +40,7 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: internal
+  - name: build
     color: cc0000
     description: For internal changes
   - name: breaking change
