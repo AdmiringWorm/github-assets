@@ -40,12 +40,15 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: build
-    color: a9f9dc
-    description: For internal changes
   - name: breaking change
     color: b60205
     description: Changes to existing code that results in a backwards incompatible change
   - name: bug
     color: cc0000
     description: Something isn't working
+  - name: build
+    color: a9f9dc
+    description: For internal changes
+  - name: dependencies
+    color: 0052cc
+    description: Only used for automatic dependencies PR by dependabot
