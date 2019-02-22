@@ -79,19 +79,3 @@ labels:
   - name: Epic
     color: 3E4B9E
     description: Tracking issue for major changes
-
-branches:
-  - name: master
-    protection:
-      required_pull_request_reviews:
-        required_approving_review_count: 1
-        dismiss_stale_reviews: true
-        required_status_checks:
-          strict: true
-  - name: develop
-    protection:
-      required_pull_request_reviews:
-        required_approving_review_count: 1
-        dismiss_stale_reviews: true
-        required_status_checks:
-          strict: true
