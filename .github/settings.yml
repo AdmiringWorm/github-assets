@@ -72,6 +72,9 @@ labels:
   - name: security vulnerability
     color: d1260f
     description: For security related issues
+  - name: todo :spiral_notepad:
+    color: 00B0D8
+    description: Todo items listed in code
   - name: triage
     color: cccccc
     description: Cause is not known yet/Decision to implement have not been decided
