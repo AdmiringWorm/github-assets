@@ -1,0 +1,5 @@
+_extends: github-assets
+
+repository:
+    name: <projectname>
+    description: <projectdescription>
