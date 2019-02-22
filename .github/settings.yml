@@ -81,7 +81,7 @@ labels:
   - name: submodules
     color: 00000e
     description: Automatic pull requests that update submodule dependencies
-  - name: todo :spiral_notepad:
+  - name: "todo :spiral_notepad:"
     color: 00B0D8
     description: Todo items listed in code
   - name: triage
