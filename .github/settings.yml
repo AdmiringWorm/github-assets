@@ -58,3 +58,6 @@ labels:
   - name: enhancement
     color: 84b6eb
     description: Changes for existing code to improve functionality
+  - name: Epic
+    color: 3E4B9E
+    description: Tracking issue for major changes
