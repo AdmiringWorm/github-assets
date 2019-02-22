@@ -18,8 +18,5 @@ reactionComment: >
 #   exemptLabels:
 #     - party-parrot
 
-pulls:
-  reactionComment: true
-
 # Repository to extend settings from
 # _extends: repo
