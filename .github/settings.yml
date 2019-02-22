@@ -100,5 +100,7 @@ branches:
         # Dismiss approved reviews automatically when a new commit is pushed.
         dismiss_stale_reviews: true
         # Blocks merge until code owners have reviewed.
-        require_code_owner_reviews: false
+        require_code_owner_reviews: true
+        # Require a minimal set of approved reviews before the PR can be merged
+        required_approving_review_count: 1
       restrictions: null
