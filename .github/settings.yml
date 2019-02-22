@@ -55,6 +55,8 @@ labels:
   - name: documentation
     color: 1d76db
     description: For updating any documentation in the repository
+  - name: duplicate
+    color: cccccc
   - name: enhancement
     color: 84b6eb
     description: Changes for existing code to improve functionality
